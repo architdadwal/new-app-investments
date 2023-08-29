@@ -1,0 +1,30 @@
+/* components/Footer.module.css */
+.footer {
+    background-color: #333;
+    padding: 12px;
+    color: white;
+    margin-top: auto; /* Push the footer to the bottom */
+  }
+  
+  .socialIcons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+  
+  .socialIconLink {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .socialIconLink img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .socialIconLink:hover {
+    color: #ffa500;
+  }
+  

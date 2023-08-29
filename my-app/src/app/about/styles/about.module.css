@@ -1,0 +1,41 @@
+.aboutus {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .containerabouthead {
+    font-size: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .containeraboutpara {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+  
+  .containeraboutul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .containeraboutli{
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+
+  .containeraboutpara span {
+    font-weight: 600;
+  }

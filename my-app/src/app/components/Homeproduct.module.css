@@ -1,0 +1,97 @@
+.row {margin-top: 15px;
+    display: flex;
+    max-width: 1110px;
+    margin: auto;
+  }
+  
+  .col {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .col8 {
+    flex: 2;
+  }
+  
+  .col4 {
+    flex: 1;
+  }
+  .col h1{ font-size: 36px;
+    padding: 5px;
+    text-align: center;
+    font-weight: 700;
+  }
+  .hometoppara{
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  .image{
+    width: 60%;
+    border-radius: 10px;
+    height: 250px;
+  }
+  .maincard{
+    background: linear-gradient(to right, #66a3ff, #d18aff);
+    width: 250px;
+    height: 360px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 1px solid  #66a3ff;
+  }
+
+  .maincard h1{
+
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .gradienttext {
+    background: linear-gradient(to right, #0074D9, #B10DC9);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+    .maincard h2{
+        font-size: 16px;
+        font-weight: 400;
+        padding: 10px;
+        text-align: center;
+    }
+    .maincardpara{
+
+
+      font-weight: 500;
+      color: white;
+      padding: 5px 20px;
+      text-align: justify;
+    }
+    .maincardbutton{
+   background-color:#b3ccff;
+      border: 2px solid black;
+      border-radius: 10px;
+      padding: 8px;
+    font-weight: 600;
+  font-size: 16px;}
+  .maincardbutttondiv{
+margin-top: 10px;
+    display: flex;
+justify-content: center;  }
+
+.middlehome h1{
+text-align: center;
+
+font-size: 40px;
+font-weight: 600px;
+color: black;}
+.middlehome{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.middlehome p{
+padding: 20px;
+text-align: justify;
+  font-size: 22px;
+}

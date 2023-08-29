@@ -1,0 +1,49 @@
+/* components/Testimonials.module.css */
+
+.testimonialscontainer {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .testimonialsheading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .testimonialcard {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 240px;
+  }
+  
+  .testimonialimage {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 10px;
+  }
+  
+  .testimonialtext {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  .testimonialname {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .testimonialrole {
+    color: #666;
+  }
+  

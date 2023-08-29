@@ -1,0 +1,70 @@
+.contactus {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .containerheading {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .containerpara {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+  .contactform {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .formgroup {
+    margin-bottom: 20px;
+  }
+
+  .containerlabel {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .containerinput {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .containerinputtextarea{
+   
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    height: 100px
+  }
+
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .map {
+    margin-top: 30px;
+  }

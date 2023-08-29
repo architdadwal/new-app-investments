@@ -1,0 +1,34 @@
+.cardsdiv{
+
+    display: flex;
+  flex-direction: row;
+  justify-content: space-between;}
+  .maincardsdiv{
+    max-width: 1110px;
+    margin: auto;
+  }
+  .maincardsdivhead{font-size: 40px;
+text-align: center;
+padding: 12px;}
+.maincardsdivp{font-size: 24px;
+    padding: 10px;
+    text-align: center;
+margin-bottom: 20px;}
+    .maincard{
+        background: linear-gradient(90deg, rgba(0,7,36,0) 0%, rgb(181 197 243) 0%, rgb(247 232 255) 100%);
+   width: 280px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 1px solid  #66a3ff;}
+    .maincardpara1{
+        font-size: 18px;
+        padding: 15px;
+        text-align: justify;
+    }
+    .cardheading{text-align: center;
+        padding: 8px;
+       font-weight: 600;
+        font-size: 28px;
+        border-radius: 8px;
+        border: 3px solid black ;
+    }
